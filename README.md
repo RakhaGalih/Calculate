@@ -17,9 +17,13 @@ NB : Saat kita menekan tombol maka akan mencari tombol mana yang ditekan dan mel
 > Saat kita menekan maka akan melakukan setText pada TextView menjadi tidak bernilai atau kosong.
 
 ### ScreenShot
-![Screenshot_20201023-172750_Calculate](https://user-images.githubusercontent.com/54633534/96994192-8e145500-1556-11eb-9ef5-851c11520db9.jpg)
-![Screenshot_20201023-172812_Calculate](https://user-images.githubusercontent.com/54633534/96994198-9076af00-1556-11eb-8933-c2b8a8300124.jpg)
-![Screenshot_20201023-172723_Calculate](https://user-images.githubusercontent.com/54633534/96994208-940a3600-1556-11eb-9184-76bc75d01e05.jpg)
-![Screenshot_20201023-172805_Calculate](https://user-images.githubusercontent.com/54633534/96994214-95d3f980-1556-11eb-8393-b932721c82e3.jpg)
+![Screenshot_20201023-205118_Calculate](https://user-images.githubusercontent.com/54633534/97013412-3df7bb80-1573-11eb-8d40-2068d387dbd3.jpg)
+![Screenshot_20201023-205133_Calculate](https://user-images.githubusercontent.com/54633534/97013426-40f2ac00-1573-11eb-919c-d2d0dd5918f7.jpg)
+![Screenshot_20201023-205151_Calculate](https://user-images.githubusercontent.com/54633534/97013443-43ed9c80-1573-11eb-8c7c-65445010bd8c.jpg)
+![Screenshot_20201023-205203_Calculate](https://user-images.githubusercontent.com/54633534/97013448-464ff680-1573-11eb-8cb5-6322e4948336.jpg)
+![Screenshot_20201023-205215_Calculate](https://user-images.githubusercontent.com/54633534/97013466-494ae700-1573-11eb-8ced-dbe6f9b2cc49.jpg)
+![Screenshot_20201023-205037_Calculate](https://user-images.githubusercontent.com/54633534/97013474-4bad4100-1573-11eb-82bf-92c1b45f5b4c.jpg)
+![Screenshot_20201023-205043_Calculate](https://user-images.githubusercontent.com/54633534/97013481-4d770480-1573-11eb-9cd2-97412bbb1d8a.jpg)
+![Screenshot_20201023-205050_Calculate](https://user-images.githubusercontent.com/54633534/97013488-4fd95e80-1573-11eb-8ad8-7b0c2528407c.jpg)
 
 ### Terima kasih :)
