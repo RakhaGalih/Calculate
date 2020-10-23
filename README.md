@@ -12,7 +12,7 @@ NB : Saat kita menekan tombol maka akan mencari tombol mana yang ditekan dan mel
 - Tombol operator
 > Saat kita menekan maka akan menambahkan operator setelahnya.
 - Tombol sains
-> Saat kita menekan maka akan mengaktifkan konversi ke sin cos maupun tan
+> Saat kita menekan maka akan mengaktifkan konversi ke sin, cos maupun tan
 - Tombol sama dengan
 > Saat kita menekan maka akan mencari mana yang angka dan mana yang operator menggunakan Scanner. Jika operator ditemukan maka akan melakukan .trim() dan angka sebelumnya akan menjadil val1 dan angka setelah operator akan menjadi val2. Saat sudah membagi maka masuk ke pernyataan switch case untuk melakukan perhitungan sesuai dengan operatornya.
 - Tombol AC (Clear)
